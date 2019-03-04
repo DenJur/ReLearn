@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>ReLearn - 0.3.2 [1.0]</name>
+  <author>DnaJur</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>This mod makes it so pawns earn more experience when they are developing a previously forgotten skill.</description>
+</ModMetaData>
